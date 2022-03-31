@@ -36,6 +36,7 @@ Docker 和 pi node 软件已经正常运行。
 
 节点服务器必须安装Windows Linux子系统发行版之一（例如：Ubuntu-20.04），并设置版本为V2.
 WSL2安装步骤参考微软官网链接：
+
 新版：https://docs.microsoft.com/zh-cn/windows/wsl/install
 
 旧版本：https://docs.microsoft.com/zh-cn/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package
